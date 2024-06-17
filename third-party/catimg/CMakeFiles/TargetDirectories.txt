@@ -1,0 +1,8 @@
+/home/course/2024OOP/2024OOP060/Final_Project/NYCU-OOP-Final-Project/third-party/catimg/CMakeFiles/install/strip.dir
+/home/course/2024OOP/2024OOP060/Final_Project/NYCU-OOP-Final-Project/third-party/catimg/CMakeFiles/install/local.dir
+/home/course/2024OOP/2024OOP060/Final_Project/NYCU-OOP-Final-Project/third-party/catimg/CMakeFiles/install.dir
+/home/course/2024OOP/2024OOP060/Final_Project/NYCU-OOP-Final-Project/third-party/catimg/CMakeFiles/list_install_components.dir
+/home/course/2024OOP/2024OOP060/Final_Project/NYCU-OOP-Final-Project/third-party/catimg/CMakeFiles/rebuild_cache.dir
+/home/course/2024OOP/2024OOP060/Final_Project/NYCU-OOP-Final-Project/third-party/catimg/CMakeFiles/edit_cache.dir
+/home/course/2024OOP/2024OOP060/Final_Project/NYCU-OOP-Final-Project/third-party/catimg/CMakeFiles/doc.dir
+/home/course/2024OOP/2024OOP060/Final_Project/NYCU-OOP-Final-Project/third-party/catimg/CMakeFiles/catimg.dir

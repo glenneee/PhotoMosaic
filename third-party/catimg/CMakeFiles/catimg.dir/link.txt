@@ -1,0 +1,1 @@
+/usr/bin/cc -O3 -DNDEBUG -Wall -Wextra -Os -std=c99 -Wno-unused-result  -rdynamic CMakeFiles/catimg.dir/src/catimg.c.o CMakeFiles/catimg.dir/src/sh_color.c.o CMakeFiles/catimg.dir/src/sh_image.c.o CMakeFiles/catimg.dir/src/sh_utils.c.o  -o bin/catimg -lm 
